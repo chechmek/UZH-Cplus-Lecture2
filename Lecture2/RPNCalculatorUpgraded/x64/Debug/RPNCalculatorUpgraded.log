@@ -1,0 +1,11 @@
+﻿  RPNCalculatorUpgraded.cpp
+C:\Users\RomanBabukh\source\repos\UZH-Cplus-Lecture2\Lecture2\RPNCalculatorUpgraded\RPNCalculatorUpgraded.cpp(17,30): warning C4244: '=': conversion from 'unsigned __int64' to 'float', possible loss of data
+C:\Users\RomanBabukh\source\repos\UZH-Cplus-Lecture2\Lecture2\RPNCalculatorUpgraded\RPNCalculatorUpgraded.cpp(31,34): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\RomanBabukh\source\repos\UZH-Cplus-Lecture2\Lecture2\RPNCalculatorUpgraded\RPNCalculatorUpgraded.cpp(31,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\RomanBabukh\source\repos\UZH-Cplus-Lecture2\Lecture2\RPNCalculatorUpgraded\RPNCalculatorUpgraded.cpp(38,34): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\RomanBabukh\source\repos\UZH-Cplus-Lecture2\Lecture2\RPNCalculatorUpgraded\RPNCalculatorUpgraded.cpp(38,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\RomanBabukh\source\repos\UZH-Cplus-Lecture2\Lecture2\RPNCalculatorUpgraded\RPNCalculatorUpgraded.cpp(45,34): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\RomanBabukh\source\repos\UZH-Cplus-Lecture2\Lecture2\RPNCalculatorUpgraded\RPNCalculatorUpgraded.cpp(45,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\RomanBabukh\source\repos\UZH-Cplus-Lecture2\Lecture2\RPNCalculatorUpgraded\RPNCalculatorUpgraded.cpp(52,34): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\RomanBabukh\source\repos\UZH-Cplus-Lecture2\Lecture2\RPNCalculatorUpgraded\RPNCalculatorUpgraded.cpp(52,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  RPNCalculatorUpgraded.vcxproj -> C:\Users\RomanBabukh\source\repos\UZH-Cplus-Lecture2\Lecture2\x64\Debug\RPNCalculatorUpgraded.exe
